@@ -1,7 +1,7 @@
 - 👋 Hi, Ryan here. 
 - 👀 I’m interested in web development and web application development.
 - 🌱 I’m currently learning MongoDB, React and authentication and security on a full-stack course.
-- 📫 I'm available for hire and work as a junior developer, and I'm a fast learner. 
+- 📫 I'm available for work as a junior developer, and I'm a fast learner. 
 Reach me on my LinkedIn page (see my main Github profile).
 
 <!---
