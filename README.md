@@ -1,7 +1,7 @@
 - 👋 Hi, Ryan here. 
 - 👀 I’m interested in web development and web application development, as well as small-scale game dev.
-- 🌱 I’m currently learning MongoDB, React and authentication and security on a full-stack course. Also studying phaser.js.
-- 📫 I'm available for work as a junior developer, and I'm a fast learner. 
+- 🌱 I’m currently learning Phaser.js, MongoDB, React and authentication and security on a full-stack course.
+- 📫 I'm available for work as a junior developer, and I'm a fast learner! 
 Reach me on my LinkedIn page (see my main Github profile).
 
 <!---
