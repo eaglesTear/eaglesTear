@@ -3,7 +3,7 @@
 - 📫 I'm available for work as a junior developer, and I'm a fast learner. 
 - 🌱 I’m currently learning Phaser.js, MongoDB, TypeScript, React and authentication and security on a full-stack course.
 
-Reach me on my LinkedIn page https://www.linkedin.com/in/ryan-had.
+Reach me on my LinkedIn page: https://www.linkedin.com/in/ryan-had.
 
 <!---
 eaglesTear/eaglesTear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
