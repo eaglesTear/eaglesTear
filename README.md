@@ -1,6 +1,11 @@
-- 👋 Hi, Ryan here. 
+- 👋 Hi, Ryan here. How are you all? 
+
+*** PLEASE FOLLOW AND / OR CONNECT WITH ME ON LINKEDIN. SEE BELOW ***
+
 - 👀 I’m ready to begin a career in web development and web application development - I'm working tirelessly to build every day in order to learn. I've even included a few projects from the earliest days of teaching myself web design and programming. It all shows a journey of making mistakes and experimenting, right up to tackling more conventional web projects.
+- 
 - 📫 I'm available for work as a junior developer, and I'm a fast learner. 
+- 
 - 🌱 I’m currently learning Phaser.js, MongoDB, TypeScript, React and authentication and security on a full-stack course.
 
 Reach me on my LinkedIn page: https://www.linkedin.com/in/ryan-had.
