@@ -1,6 +1,6 @@
-- 👋 Hi, Ryan here. How are you all? 
+*** FOLLOW ME ON HERE AND / OR CONNECT WITH ME ON LINKEDIN. SEE BELOW ***
 
-*** PLEASE FOLLOW AND / OR CONNECT WITH ME ON LINKEDIN. SEE BELOW ***
+- 👋 Hi, Ryan here.
 
 - 👀 I’m ready to begin a career in web development and web application development - I'm working tirelessly to build every day in order to learn. I've even included a few projects from the earliest days of teaching myself web design and programming. It all shows a journey of making mistakes and experimenting, right up to tackling more conventional web projects.
 - 
