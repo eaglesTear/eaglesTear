@@ -6,7 +6,7 @@
 
 - 📫 I'm available for work as a junior developer, and I'm a fast learner. 
 
-- 🌱 I’m currently learning Phaser.js, MongoDB, TypeScript, React and authentication.
+- 🌱 I’m currently learning Phaser.js & React.js. 
 
 Reach me on my LinkedIn page: https://www.linkedin.com/in/ryan-had.
 
