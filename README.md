@@ -2,7 +2,7 @@
 
 - Recent full-stack bootcamp graduate.
 
-- 👀 I’m ready to begin a career in web development and web application development - I'm working tirelessly to build every day in order to learn. I've even included a few projects from the earliest days of teaching myself web design and programming. It all shows a journey of making mistakes and experimenting, right up to tackling more conventional web projects.
+- 👀 I’m ready to begin a career in web development and web application development, or HTML5 game dev. I'm working tirelessly to build every day in order to learn. I've even included a few projects from the earliest days of teaching myself web design and programming. It all shows a journey of making mistakes and experimenting, right up to tackling more conventional web projects.
 
 - 📫 I'm available for work as a junior developer, and I'm a fast learner. 
 
