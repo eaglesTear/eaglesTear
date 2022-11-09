@@ -6,7 +6,7 @@
 
 - 📫 I'm available for work as a junior developer, and I'm a fast learner. 
 
-- 🌱 I’m currently learning Phaser.js & React.js. 
+- 🌱 I’m currently building a full-stack Node JS website for a counselling charity, whilst learning Phaser.js & React.js. 
 
 Reach me on my LinkedIn page: https://www.linkedin.com/in/ryan-had.
 
