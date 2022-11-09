@@ -4,7 +4,7 @@
 
 - 👀 I’m ready to begin a career in web development and web application development, or HTML5 game dev. I'm working tirelessly to build every day in order to learn. I've even included a few projects from the earliest days of teaching myself web design and programming. It all shows a journey of making mistakes and experimenting, right up to tackling more conventional web projects.
 
-- 📫 I'm available for work as a junior developer, and I'm a fast learner. 
+- 📫 I'm available for work as a full-stack junior web application developer. I built all the stuff you see here in my free time and I learn my craft properly.
 
 - 🌱 I’m currently building a full-stack Node JS website for a counselling charity, whilst learning Phaser.js & React.js. 
 
